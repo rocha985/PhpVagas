@@ -24,7 +24,7 @@ Projeto desenvolvido como parte de uma atividade acadêmica.
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/phpvagas.git
+   git clone https://github.com/rocha985/PhpVagas.git
    ```
 
 2. **Acesse a pasta do projeto**
